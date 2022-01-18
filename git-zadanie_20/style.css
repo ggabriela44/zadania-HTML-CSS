@@ -1,0 +1,40 @@
+*{
+    background-color: blanchedalmond;
+}
+
+h1{
+    background-color: blueviolet;
+}
+
+h2{
+    background-color: coral;
+}
+
+p{
+    background-color: darkgoldenrod;
+}
+
+#dwa{
+    background-color: powderblue;
+}
+
+ol, ol li{
+    background-color: darkslategrey;
+}
+
+
+li:nth-child(1){
+    color:wheat;
+}
+li:nth-child(2){
+    color:red;
+}
+li:nth-child(3){
+    color:purple;
+}
+li:nth-child(4){
+    color:tomato;
+}
+li:nth-child(5){
+    color:blue;
+}
